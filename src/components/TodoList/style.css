@@ -1,0 +1,26 @@
+.todoListWrapper {
+  margin: 10px 10px;
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  height: 80px;
+  padding: 20px;
+  box-shadow: 2px 5px 5px 5px #e4e2e2;
+  overflow: auto;
+}
+
+.todoButton {
+  width: 150px;
+  height: 35px;
+  padding: 4px;
+  border-radius: 2px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.todoInput {
+  height: 25px;
+  border-radius: 2px;
+  padding: 4px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

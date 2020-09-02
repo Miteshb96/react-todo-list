@@ -1,0 +1,40 @@
+.header {
+  margin: 0;
+  text-align: center;
+  padding: 0;
+  height: 50px;
+  width: 100%;
+}
+.bucketListWrapper {
+  margin: 10px 10px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+  padding: 20px;
+  box-shadow: 2px 5px 5px 5px #e4e2e2;
+  overflow: auto;
+}
+.editIcon {
+  float: right;
+}
+.addBucket {
+  width: 150px;
+  height: 35px;
+  padding: 4px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+.inputtext {
+  height: 25px;
+  border-radius: 2px;
+  padding: 4px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.bucketWrapper {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
